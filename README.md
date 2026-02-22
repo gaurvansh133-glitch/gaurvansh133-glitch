@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Mario Banner](https://github.com/Unik69420/Unik69420/blob/main/mario%20banner%20for%20github%20profile%20readme.gif?raw=true)
+
+
 <!--
 **gaurvansh133-glitch/gaurvansh133-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
