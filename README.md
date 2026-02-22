@@ -130,47 +130,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center" style="width: 100%;">
-  <picture style="min-width: 90%; display: block;">
-    <source media="(max-width: 600px)"
-            srcset="https://victor-profile-trophy.vercel.app/?username=VictorMoni&theme=onedark&no-frame=true&row=2&column=4"/>
-    <img alt="GitHub Trophies"
-         src="https://victor-profile-trophy.vercel.app/?username=VictorMoni&theme=onedark&no-frame=true&row=1&column=8"
-         style="min-width: 95%; max-width: 100%; height: auto;"/>
-  </picture>
-</div>
-
-## 🛡️ Holopin Badges
-
-[![An image of @victormoni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
-
-## 📱 Connect With Me
-
-<br/>
-
-<div align="center">
-
-[![Google Developers](https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/victormoni)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/users/victormoni)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/victormoni)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vabmoni@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511943936479)
-[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-0A0A0A?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/victormoni)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9859219)
-[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/victormoni)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vabmoni)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/victormoni)
-[![GitLab](https://img.shields.io/badge/GitLab-darkgray?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/victormoni)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/victormoni.bsky.social)
-[![Jira](https://img.shields.io/badge/-Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://victormoni.atlassian.net/)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-205081?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/victormoni)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/victormoni/)
-[![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@victormoni)
-
-</div>
-
 ## ✍️ Dev Quote
 
 <div align="center">
