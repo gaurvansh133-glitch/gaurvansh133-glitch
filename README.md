@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a new developer and several open source projects like [marzipano-importer](https://github.com/tunnaduong/marzipano-importer), and [aapanel-deploy-action](https://github.com/tunnaduong/aapanel-deploy-action).
+I'm a new developer and Learning 
 
 I’m passionate about building elegant, fast, and scalable apps — from open-source tools to production-ready consumer platforms.
 
@@ -122,15 +122,3 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
   </picture>
 </div>
 
-## ☕ Support My Work
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/victormoni" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-</div>
-
-<div align="center">
-  <b>Crafted with ❤️ by Victor Moni</b><br/>
-  <sub>Let’s build something incredible together.</sub>
-</div>
