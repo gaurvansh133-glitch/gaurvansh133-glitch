@@ -106,29 +106,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
   </div>
 
-## 💡Daily.dev Card
-
-<div align="center">
-
-  <a href="https://app.daily.dev/victormoni"><img src="https://api.daily.dev/devcards/v2/sIZQvrf20yqY9CA4XcUjD.png?type=wide&r=zpi" width="652" alt="Victor Moni's Dev Card"/></a>
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://victor-readme-stats.vercel.app/api?username=VictorMoni&hide=commits,contribs&show=discussions_started,discussions_answered,prs_merged&theme=dark&show_icons=true&hide_border=true")
-
-</div>
-
-## 📖 Top Languages
-
-<div align="center">
-
-![Top Languages](https://victor-readme-stats.vercel.app/api/top-langs/?username=VictorMoni&theme=dark&layout=compact&hide=html,css,scss)
-
-</div>
 
 ## ✍️ Dev Quote
 
